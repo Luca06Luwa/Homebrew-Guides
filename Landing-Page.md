@@ -11,4 +11,4 @@ Custom firmware (often abbreviated as "CFW") enables you to use more advanced ha
 ## End Goal
 These guides all have the end goal of taking a completely unmodified console from stock to custom firmware.
 
-### [Continue to Selecting Your Console]()
+### [Continue to Selecting Your Console](Choose-Your-Console.md)
