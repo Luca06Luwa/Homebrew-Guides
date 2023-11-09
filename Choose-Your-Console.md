@@ -4,7 +4,7 @@ Pick a guide from the list of consoles that are listed here:
 
 ### [Continue to PS2 Guide](Guides/PS2-Guide.md)
 
-### [Continue to Wii U Guide]()
+### [Continue to Wii U Guide](Guides/WiiU-Guide.md)
 
 ### [Continue to DS Guide]()
 
