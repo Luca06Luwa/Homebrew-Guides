@@ -12,7 +12,8 @@ The prefered way to install FMCB is through an exploit known as FreeDVDBoot to t
 
 ## Required Software
 - A copy of [IMGBurn](https://www.imgburn.com/)
+- A copy of [WinHIIP](https://www.psx-place.com/resources/winhiip.666/download?version=1066)
 - The [FMCB Installer Packages](https://www.mediafire.com/file/5c93karba29sjf8/%5B190413%5DFMCB-1966-bin.7z/file)
 - A copy of [FreeDVDBoot](https://github.com/CTurt/FreeDVDBoot/blob/master/PREBUILT%20ISOs/All%20PS2%20Slims%20-%20English%20language.iso)
-- 
-- 
+- The latest release of [Open PS2 Launcher](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/v1.1.0)
+- The latest release of [ESR](https://www.psx-place.com/resources/esr.951/download?version=1611)
